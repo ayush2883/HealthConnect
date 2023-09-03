@@ -1,4 +1,0 @@
-apps:
-- name: HealthConnect
-  random-route: true
-  memory: 128M
